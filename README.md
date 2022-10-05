@@ -7,7 +7,7 @@
 
 <h3>Les caractéristique du langage Java</h3>
 <ul>
-<li>il s'agit d'un langage **orienté objet**</li>
+<li>il s'agit d'un langage <strong>orienté objet </strong> </li>
 <li>il est portable</li>
 <li>il est multithreadé</li>
 </ul>
