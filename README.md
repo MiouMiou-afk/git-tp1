@@ -15,7 +15,7 @@
 
 <h3>Documentation</h3>
 
-<P> Liens vers la [color=##FF0000]documentation offcielle [/color] : <a href="https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png">Documentation</a> </p>
+<P> Liens vers la [color=#FF0000]documentation offcielle [/color] : <a href="https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png">Documentation</a> </p>
 
 
 
